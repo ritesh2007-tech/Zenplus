@@ -1,16 +1,3 @@
 Zenplus
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Zenplus is a comprehensive, offline-first Flutter application designed to integrate personal reflection, creative expression, and audio experimentation into a single, privacy-centric platform. The app prioritizes local data persistence using SQLite, ensuring all user-generated content—including journal entries, mood logs, and assessments.
