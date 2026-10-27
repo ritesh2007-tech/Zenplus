@@ -33,7 +33,7 @@ class _LoginScreenState extends State<LoginScreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  "Welcome 👋",
+                  "Welcome  👋",
                   style: TextStyle(
                     fontSize: width * 0.08,
                     fontWeight: FontWeight.bold,
