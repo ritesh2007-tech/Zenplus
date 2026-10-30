@@ -82,6 +82,7 @@ class _DiaryEntryScreenState extends State<DiaryEntryScreen> {
           ),
         ],
       ),
+      //floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
       floatingActionButton: Container(
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(16),
