@@ -94,6 +94,7 @@ class _DiaryEntryScreenState extends State<DiaryEntryScreen> {
             ),
           ],
         ),
+        //floatingbutton
         child: FloatingActionButton.extended(
           onPressed: () async {
             String title = titleController.text.trim();
