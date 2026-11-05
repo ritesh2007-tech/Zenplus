@@ -116,6 +116,7 @@ class _MentalHealthDashboardState extends State<MentalHealthDashboard> {
                             ),
                             onChanged: (_) => setState(() {}),
                           ),
+                          //SizedBox(height: 8),
                           SizedBox(height: 20),
                           Row(
                             mainAxisAlignment: MainAxisAlignment.end,
