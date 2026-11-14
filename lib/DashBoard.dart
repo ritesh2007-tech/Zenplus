@@ -197,7 +197,7 @@ class _MentalHealthDashboardState extends State<MentalHealthDashboard> {
       // Morning - Light blue to white
       return LinearGradient(
         colors: [
-          Color.fromARGB(255, 104, 167, 193),
+          Color.fromARGB(255, 103, 167, 193),
           Color.fromARGB(255, 196, 238, 255),
         ],
         begin: Alignment.topCenter,
